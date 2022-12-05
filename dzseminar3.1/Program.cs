@@ -1,10 +1,18 @@
 ﻿
-double Distance(int ax,int ay,int az,int bx,int by,int bz)
-{
-    double result;
-    result=Math.Sqrt(Math.Pow(bx-ax,2)+Math.Pow(by-ay,2)+Math.Pow(bz-az,2));
-    return result;
+string PPalindr(int n)
+{  
+    int num = 10000;
+    if (n > 100000 || n < 10000)
+        return "The number is not five-digit!";
+    else        
+        while (num > 1)
+        {
+            if (n / num % 10 != n % 10)
+                return "no";
+            n /= 10;
+            num /= 100;
+        }    
+        return "yes";
 }
 
-Console.WriteLine(Distance(3, 6, 8, 2, 1, -7));
-Console.WriteLine(Distance(7, -5, 0, 1, -1, 9));
+Console.WriteLine(PPalindr(int.Parse(Console.ReadLine())));
