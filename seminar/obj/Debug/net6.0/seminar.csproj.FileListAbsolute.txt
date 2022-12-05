@@ -1,0 +1,15 @@
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\bin\Debug\net6.0\seminar.exe
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\bin\Debug\net6.0\seminar.deps.json
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\bin\Debug\net6.0\seminar.runtimeconfig.json
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\bin\Debug\net6.0\seminar.dll
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\bin\Debug\net6.0\seminar.pdb
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\obj\Debug\net6.0\seminar.csproj.AssemblyReference.cache
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\obj\Debug\net6.0\seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\obj\Debug\net6.0\seminar.AssemblyInfoInputs.cache
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\obj\Debug\net6.0\seminar.AssemblyInfo.cs
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\obj\Debug\net6.0\seminar.csproj.CoreCompileInputs.cache
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\obj\Debug\net6.0\seminar.dll
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\obj\Debug\net6.0\refint\seminar.dll
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\obj\Debug\net6.0\seminar.pdb
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\obj\Debug\net6.0\seminar.genruntimeconfig.cache
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\seminar\obj\Debug\net6.0\ref\seminar.dll
