@@ -58,4 +58,4 @@ int ay=ReadNumber("Введите Y:");
 int bx=ReadNumber("Введите X:");
 int by=ReadNumber("Введите Y:");
 
-Console.WriteLine(Math.Round(Distance(ax,ay,bx,by)));
+Console.WriteLine(Distance(ax,ay,bx,by));
