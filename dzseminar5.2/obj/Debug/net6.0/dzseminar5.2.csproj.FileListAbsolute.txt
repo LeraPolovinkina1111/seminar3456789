@@ -1,0 +1,15 @@
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\obj\Debug\net6.0\dzseminar5.2.csproj.AssemblyReference.cache
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\obj\Debug\net6.0\dzseminar5.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\obj\Debug\net6.0\dzseminar5.2.AssemblyInfoInputs.cache
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\obj\Debug\net6.0\dzseminar5.2.AssemblyInfo.cs
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\obj\Debug\net6.0\dzseminar5.2.csproj.CoreCompileInputs.cache
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\bin\Debug\net6.0\dzseminar5.2.exe
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\bin\Debug\net6.0\dzseminar5.2.deps.json
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\bin\Debug\net6.0\dzseminar5.2.runtimeconfig.json
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\bin\Debug\net6.0\dzseminar5.2.dll
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\bin\Debug\net6.0\dzseminar5.2.pdb
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\obj\Debug\net6.0\dzseminar5.2.dll
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\obj\Debug\net6.0\refint\dzseminar5.2.dll
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\obj\Debug\net6.0\dzseminar5.2.pdb
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\obj\Debug\net6.0\dzseminar5.2.genruntimeconfig.cache
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\dzseminar5.2\obj\Debug\net6.0\ref\dzseminar5.2.dll
