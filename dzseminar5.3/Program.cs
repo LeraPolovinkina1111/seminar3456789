@@ -3,7 +3,7 @@
 //[3 7 22 2 78] -> 76
 
 
-void Print(int[] arr)
+void Print(double[] arr)
 {
     int size = arr.Length;
 
@@ -17,40 +17,35 @@ void Print(int[] arr)
 double[] MassNums(int size, int from, int to)
 {
     double[] arr = new double[size];
+    Random n_new = new Random();
 
-    for (int i = 0; i < size; i++)
-    {
-        arr[i] = new Random().Next(from, to);
-    }
+    for (int i = 1; i < size; i++)
+        arr[i] = Math.Round(n_new.NextDouble() * (from + to) - from, 2);
+
     return arr;
 }
 
 
-
-void KolneChetNum(int[] arr)
+void DifMaxMin(double[] arr)
 {
-    int nechet;
-    nechet = 0;
+    double max = arr[0];
+    double min = arr[0];
 
     for (int i = 0; i < arr.Length; i++)
     {
-        if (arr[i] % 2 == 0)
-        {
+        if (max < arr[i])
+            max = arr[i];
 
-            arr[i]++;
-        }
-
-        else
-        {
-            nechet = nechet + arr[i];
-        }
+        else if (min > arr[i])
+            min = arr[i];
 
     }
-    Console.WriteLine($"Kolich nechet: {nechet}");
+    Console.Write($"Max: {max}, min: {min}. ");
+    Console.WriteLine($"Diff: {max} - ({min}) = {Math.Round(max - min, 2)}");
 }
 
 double[] arr_1 = MassNums(int.Parse(Console.ReadLine()),
                        int.Parse(Console.ReadLine()),
                        int.Parse(Console.ReadLine()));
 Print(arr_1);
-KolneChetNum(arr_1);
+DifMaxMin(arr_1);
