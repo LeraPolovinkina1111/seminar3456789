@@ -1,0 +1,15 @@
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\obj\Debug\net6.0\lecture.csproj.AssemblyReference.cache
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\obj\Debug\net6.0\lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\obj\Debug\net6.0\lecture.AssemblyInfoInputs.cache
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\obj\Debug\net6.0\lecture.AssemblyInfo.cs
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\obj\Debug\net6.0\lecture.csproj.CoreCompileInputs.cache
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\bin\Debug\net6.0\lecture.exe
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\bin\Debug\net6.0\lecture.deps.json
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\bin\Debug\net6.0\lecture.runtimeconfig.json
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\bin\Debug\net6.0\lecture.dll
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\bin\Debug\net6.0\lecture.pdb
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\obj\Debug\net6.0\lecture.dll
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\obj\Debug\net6.0\refint\lecture.dll
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\obj\Debug\net6.0\lecture.pdb
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\obj\Debug\net6.0\lecture.genruntimeconfig.cache
+C:\Users\Дом\OneDrive\Рабочий стол\geekbrains\lecture\obj\Debug\net6.0\ref\lecture.dll
