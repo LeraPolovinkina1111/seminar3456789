@@ -1,13 +1,13 @@
-﻿void Peresechenija(double x1, double y1, double x2, double y2)
+﻿void Peresechenija(double k1, double b1, double k2, double b2)
 {
-    double tpsch = x1- x2;
+    double tpsch = k1- k2;
     if (tpsch != 0)
     {
-        double x = (y2 - y1) / (x1- x2);
-        double y = x1 * x + y1;
+        double x = (b2 - b1) / (k1- k2);
+        double y = k1 * x + b1;
         Console.WriteLine($"Peresechenija point: ({x}; {y})");
     }
-    else if (x1 == x2 && y1 == y2)
+    else if (k1 == k2 && b1 == b2)
         Console.WriteLine("There are an infinite number of intersection points.");
     else
         Console.WriteLine("There is no intersection point");
